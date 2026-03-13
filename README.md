@@ -1,34 +1,90 @@
-# Super-Store-Sales-Dashboard
+# 📊 SuperStore Sales Analysis & Forecast Dashboard (Power BI)
 
-## 📊 Superstore Sales Dashboard – Power BI
+## 📌 Project Overview
 
-### 📌 Project Overview
+This project presents an **interactive Power BI dashboard** built using the Superstore dataset.
+The dashboard analyzes **sales performance, profit trends, customer segments, and regional performance**.
+It also includes a **15-day sales forecasting model** to predict future sales trends based on historical data.
 
-Developed an interactive **Power BI dashboard** to analyze retail sales performance using the Superstore dataset. The dashboard provides insights into **sales, profit, orders, shipping modes, and regional performance** through dynamic visualizations and filters.
+---
 
-### 🚀 Key Features
+# 📷 Dashboard Screenshots
 
-* 📈 Created KPI cards to track **Total Sales (1.6M), Profit (175K), Orders (22K), and Average Ship Days (4)**
-* 🎛️ Added interactive **region slicers** (Central, East, South, West) for dynamic filtering
-* 📊 Designed multiple visualizations including **line charts, donut charts, bar charts, and map visuals**
-* 📅 Built **monthly sales and profit trend analysis** to identify seasonal patterns
-* 🛍️ Analyzed **sales distribution by payment mode, region, category, and sub-category**
-* 🗺️ Visualized **state-wise sales performance using map visualization**
+## 1️⃣ Sales Performance Dashboard
 
-### 🛠️ Tools & Technologies
+![Sales Dashboard](Super Store Sales Dashboard.png)
 
-* Power BI
-* Data Modeling
-* DAX
-* Data Visualization
+This dashboard provides a complete overview of sales performance across different categories, regions, and segments.
 
-### 🔍 Key Insights
+### 🔹 Key Metrics
 
-* 📌 Highest sales recorded in **December**
-* 🚚 **Standard Class** is the most frequently used shipping mode
-* 🏢 **Office Supplies** generated the highest sales among categories
-* 📱 **Phones** is the top-performing sub-category
+* 📦 **Total Orders:** 22K
+* 💰 **Total Sales:** 1.6M
+* 📈 **Total Profit:** 175K
+* 🚚 **Average Ship Days:** 4
 
-### 🎯 Outcome
+### 🔹 Insights Provided
 
-This dashboard helps businesses quickly monitor performance metrics, identify sales trends, and support **data-driven decision making**.
+* 💳 Sales by **Payment Mode**
+* 🌍 Sales by **Region**
+* 👥 Sales by **Customer Segment**
+* 📊 **Monthly Sales Trend**
+* 📉 **Monthly Profit Trend**
+* 🛍️ Sales by **Category & Sub-Category**
+* 🗺️ **State-wise Sales Distribution**
+
+---
+
+## 🔮 Sales Forecast Dashboard
+
+![Sales Forecast](Super Store Sales Forecast.png)
+
+This dashboard predicts **future sales trends for the next 15 days** using historical sales data.
+
+### 🔹 Forecast Insights
+
+* 📈 Historical sales trend analysis
+* 🔮 **15-day sales prediction**
+* 📊 State-wise sales comparison
+* 📉 Identification of sales patterns and demand trends
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+* 📊 **Power BI**
+* 🧮 **DAX (Data Analysis Expressions)**
+* 📂 **Data Modeling**
+* 📉 **Time Series Forecasting**
+* 📑 **Data Visualization**
+
+---
+
+# 📊 Key Business Insights
+
+* 📌 **December recorded the highest sales**
+* 🚚 **Standard Class** is the most used shipping mode
+* 🏢 **Office Supplies** generated the highest sales
+* 📱 **Phones** is the best performing sub-category
+* 🌎 **California** has the highest sales among all states
+
+---
+
+# 🎯 Project Outcome
+
+This dashboard helps businesses **monitor sales performance, identify trends, and make data-driven decisions**.
+The **forecasting model** enables companies to predict future sales and improve planning strategies.
+
+---
+
+# ⭐ Author
+
+**Abhishek Memane**
+
+## 📬 Reach Me
+📧 **Email:** [abhimemane7272@gmail.com](mailto:abhimemane7272@gmail.com)
+💼 **LinkedIn:** [Abhishek Memane](https://www.linkedin.com/in/abhishek-memane-5b609238a)
+🐙 **GitHub:** [abhishekmemane72](https://github.com/abhishekmemane72)
+📍 **Location:** Maharashtra, India
+
+
