@@ -12,7 +12,7 @@ It also includes a **15-day sales forecasting model** to predict future sales tr
 
 ## 1️⃣ Sales Performance Dashboard
 
-![Sales Dashboard](Super Store Sales Dashboard.png)
+![Sales Dashboard](Super_Store_Sales_Dashboard.png)
 
 This dashboard provides a complete overview of sales performance across different categories, regions, and segments.
 
@@ -37,7 +37,7 @@ This dashboard provides a complete overview of sales performance across differen
 
 ## 🔮 Sales Forecast Dashboard
 
-![Sales Forecast](Super Store Sales Forecast.png)
+![Sales Forecast](Super_Store_Sales_Forecast.png)
 
 This dashboard predicts **future sales trends for the next 15 days** using historical sales data.
 
